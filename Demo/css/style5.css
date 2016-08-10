@@ -1,0 +1,142 @@
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video {
+	display:block;
+}
+mark, rp, rt, ruby, summary, time {
+	display:inline;
+}
+.left {
+	float:left;
+}
+.right {
+	float:right;
+}
+.wrapper {
+	width:100%;
+	overflow:hidden;
+}
+body {
+	background:url(../img/bg.jpg) top center no-repeat #000;
+	border:0;
+	font:14px Arial, Helvetica, sans-serif;
+	color:#000;
+	line-height:20px;
+}
+
+.main {
+	margin:0 auto;
+	width:920px;
+}
+a {
+	color:#ab0000;
+	text-decoration:underline;
+	outline:none;
+}
+a:hover {
+	text-decoration:none;
+}
+h1 {
+	padding:98px 0 0 72px;
+}
+h2 {
+	font-size:34px;
+	color:#222;
+	line-height:55px;
+	background:url(../img/bg_box1.png) 0 0 no-repeat;
+	padding-left:22px;
+	display:block;
+	overflow:hidden;
+}
+h2 span {
+	font-size:30px;
+}
+p {
+	padding-bottom:20px;
+}
+header {
+	width:100%;
+	height:377px;
+	overflow:hidden;
+}
+#logo {
+	display:block;
+	background:url(../img/logo.jpg) no-repeat;
+	width:459px;
+	height:44px;
+	text-indent:-9999px;
+}
+#content {
+}
+.pad_left1 {
+	padding-left:12px;
+}
+.pad_left2 {
+	padding-left:50px;
+}
+.pad {
+	padding:0 12px;
+}
+.pad_bot1 {
+	padding-bottom:13px;
+}
+.marg_right1 {
+	margin-right:10px;
+}
+.pad_top1 {
+	padding-top:25px;
+}
+.font1 {
+	font-size:16px;
+}
+.font2 {
+	font-size:12px;
+	font-weight:bold;
+	color:#ab0000;
+}
+.ul_works {
+	padding-bottom:3px;
+}
+.ul_works li {
+	padding-bottom:14px;
+}
+#ContactForm {
+	padding:18px 0 0 25px;
+	width:497px;
+}
+#ContactForm .wrapper {
+	min-height:30px;
+}
+#ContactForm .textarea_box {
+	min-height:459px;
+}
+#ContactForm span {
+	font-weight:bold;
+	width:121px;
+	float:left;
+	line-height:26px;
+}
+#ContactForm a {
+	float:right;
+	background:url(../img/send_button.png) no-repeat;
+	width:119px;
+	height:38px;
+	text-indent:-9999px;
+}
+#ContactForm .input {
+	width:356px;
+	height:18px;
+	background:url(../img/bg_form.png) repeat;
+	padding:4px 10px;
+	color:#000;
+	font:14px Arial, Helvetica, sans-serif;
+	margin:0;
+}
+#ContactForm textarea {
+	overflow:auto;
+	width:356px;
+	height:440px;
+	background:url(../img/bg_form.png) repeat;
+	padding:4px 10px;
+	color:#000;
+	font:14px Arial, Helvetica, sans-serif;
+	margin:0;
+}

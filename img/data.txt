@@ -1,0 +1,6 @@
+ID	NAME	CLASS	GRADE	ADDRESS
+1	Ravi	12	A	Jalandhar
+2	Raman	10	B	Kanpur
+5	gh	hfh	gh	ffh
+
+6	Ravi Dwivedi	08	fail	Thailand

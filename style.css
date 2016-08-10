@@ -1,0 +1,59 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote, table, tr, td, th {
+	margin: 0; padding: 0; border: 0;
+}
+
+body {
+	background: #12a845 url(img/1.jpg) center top fixed no-repeat;
+	font: 16px Georgia, Serif; color: #4A0707;
+margin-left:0px
+}
+
+h1 {
+	width: 168px; height: 130px; margin: 30px auto; position: relative;
+	background: url(images/harley-davidson.png); text-indent: -9999px;
+}
+
+#container {
+        margin-top:200px;
+	width: 940px; margin: -115px auto; padding: 110px 10px 50px 10px;
+	//background: url(images/bg-pattern.png);
+	box-shadow: 0px 5px 30px red;
+}
+
+table {
+	border-spacing: 10px 0px;
+}
+
+th, td {
+        width:400px;
+	text-align: left; padding: 10px;
+}
+
+.feature {
+	width: 300px; text-align: left;
+	font-size: 24px; font-weight: normal; color: #DD0736; 
+}
+
+.ravi1, .ravi2, .ravi3 {
+	background: rgba(255,255,255,0.05);
+}
+
+h2 {
+	font-size: 24px; font-weight: normal; color: #fff; 
+}
+
+tr:hover {
+	background: rgba(120,240,150,0.5);
+}
+	thead tr:hover {
+		background: none;
+	}
+#text{
+background: #C0F0E4; border: black; font-family: cursive; z-index: auto;width: 200px;border-width: medium;border-style: solid;height: 22px;azimuth: center;overflow: auto;
+}
+}
+#ravi2{
+text-align: center;
+box-shadow: 0px 5px 30px red;
+margin: -115px auto;
+}

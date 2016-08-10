@@ -1,0 +1,12 @@
+
+.feature {
+	width: 200px; text-align: left;
+	font-size: 24px; font-weight: normal; color: #DD0736; 
+}
+
+
+
+.ravi1:hover {
+	background: rgba(120,240,150,0.5);
+}
+

@@ -1,0 +1,14 @@
+.col1, .col3, .cols {
+	float:left;
+}
+
+.col1 {
+	width:536px;
+	padding-left:29px;
+}
+.col3 {
+	width:227px;
+}
+.cols {
+	width:190px;
+}
